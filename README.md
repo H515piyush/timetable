@@ -33,7 +33,7 @@ Execute the program
         <img src="logo.png" height="100" width="1000" align="center">
     </div>
 
-    <h4 align="center" width="700">SLOT TIME TABLE - NIJEESH NJ (23010565)</h4>
+    <h4 align="center" width="700">SLOT TIME TABLE -piyush kumar (23008697)</h4>
     <table bgcolor="cyan" align="center" height="200">
         <tr bgcolor="Yellow">
             <th width="100">Day/Time</th>
